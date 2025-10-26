@@ -301,7 +301,7 @@ CircleAudioPlayer.prototype = {
 
 // now init one as an example
 var cap = new CircleAudioPlayer({
-	audio: 'http://stm6.conectastreaming.com:10146/stream',
+	audio: 'https://stm6.conectastreaming.com:10146/stream',
   size: 120,
   borderWidth: 4
 });
